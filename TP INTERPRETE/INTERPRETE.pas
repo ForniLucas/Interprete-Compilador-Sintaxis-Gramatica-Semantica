@@ -1,0 +1,5 @@
+PROGRAM INTERPRETE;
+USES Upila;
+BEGIN
+	PILAA;
+end.
